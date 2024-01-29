@@ -1,0 +1,35 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Elegante",
+      "description": "Una experiencia única en hospitalidad",
+      "img": "/img/hotel1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Resort Tropical",
+      "description": "Descubre la belleza del paraíso",
+      "img": "/img/hotel2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Alojamiento Boutique",
+      "description": "Lujo y comodidad en cada detalle",
+      "img": "/img/hotel3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hotel de Montaña",
+      "description": "Escapada tranquila con vistas impresionantes",
+      "img": "/img/hotel4.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Hotel Urbano Moderno",
+      "description": "Estilo contemporáneo en el corazón de la ciudad",
+      "img": "/img/hotel5.jpg"
+    }
+  ]
+}
+
